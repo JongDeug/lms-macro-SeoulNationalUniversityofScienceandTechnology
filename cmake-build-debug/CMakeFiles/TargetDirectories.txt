@@ -1,0 +1,3 @@
+C:/Users/pinpo/CLionProjects/SGDMacro/cmake-build-debug/CMakeFiles/SGDMacro.dir
+C:/Users/pinpo/CLionProjects/SGDMacro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pinpo/CLionProjects/SGDMacro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
